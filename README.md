@@ -24,7 +24,17 @@ Devem ser utilizadas as seguintes tecnologias :
 * Qualquer tecnologia ou padrão complementar as citadas anteriormente são permitidas com as devidas justificativas no README.
 
 # A Prova
+
+Você será avaliado pela qualidade do código, pela modularidade, pela legibilidade, pela criatividade, pela quantidade de funcionalidades básicas e extra.
+
+## Prazo de entrega
+
+Prazo 1 semana.
+
 ## Crie uma Single Page para um Open Banking (Você cria o layout e nome, os textos pode utilizar Lorem Ipsum). 
+
+O layout e por sua conta, seja criativo.
+Qualquer funcionalidade extra é bem vinda para agregar na solução básica proposta.
 
 Vincule na single page a aplicação solicitada abaixo, redirecionando para Login.
 
@@ -37,16 +47,10 @@ Vincule na single page a aplicação solicitada abaixo, redirecionando para Logi
 
 ## Desenvolva uma aplicação frontend para vinculo das APIs, deve conter, Registro, Login, Dashboard(com saldos) e Extrato de movimentos.
 
-## Crie o banco de dados de sua escolha para administrar as informações.
-
+O layout e por sua conta, seja criativo.
 Qualquer funcionalidade extra é bem vinda para agregar na solução básica proposta.
 
-O layout e por sua conta, seja criativo.
-A arquitetura é por sua conta, seja esperto. 
-
-Você será avaliado pela qualidade do código, pela modularidade, pela legibilidade, pela criatividade, pela quantidade de funcionalidades básicas e extra.
-
-Prazo 1 semana.
+## Crie o banco de dados de sua escolha para administrar as informações.
 
 # Arquitetura da solução/O que fazer
 
