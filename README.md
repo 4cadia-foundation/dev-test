@@ -28,16 +28,16 @@ Devem ser utilizadas as seguintes tecnologias :
 
 Vincule na single page a aplicação solicitada abaixo, redirecionando para Login.
 
-Crie uma API onde terá os seguintes metodos:
+#Crie uma API onde terá os seguintes metodos:
 
-Register
-Login
-Extrato
-Saldos
+* Register
+* Login
+* Extrato
+* Saldos
 
-Desenvolva uma aplicação frontend para vinculo das APIs, deve conter, Registro, Login, Dashboard(com saldos) e Extrato de movimentos.
+#Desenvolva uma aplicação frontend para vinculo das APIs, deve conter, Registro, Login, Dashboard(com saldos) e Extrato de movimentos.
 
-Crie o banco de dados de sua escolha para administrar as informações.
+#Crie o banco de dados de sua escolha para administrar as informações.
 
 Qualquer funcionalidade extra é bem vinda para agregar na solução básica proposta.
 
