@@ -9,7 +9,8 @@ Que tal fazer parte de um time com atitude? Participar de uma das maiores disrup
 * Micro services e aplicações distribuídas
 * Git
 * AngularJs/React/Vue
-* Material Design
+* NodeJS/NestJS/Express
+* Bootstrap/Material Design
 * TDD
 * BDD
 
@@ -20,8 +21,21 @@ Devem ser utilizadas as seguintes tecnologias :
 * Qualquer Framework de estilo 
 * Vue.js, React ou Angular 2+
 * Flux (Redux, Vuex, etc)
-* Testes (Que achar necessário) 
+* NodeJS, NestJS e/ou Express
+* Testes (Que achar necessário)
+* MongoDB, Postgre, CassandraDB, Redis, ou qualquer outra tecnologia NoSQL similar (se necessário)
 * Qualquer tecnologia ou padrão complementar as citadas anteriormente são permitidas com as devidas justificativas no README.
+
+Caso tenha familiaridade com outras tecnologias e queira utilizar no lugar de alguma dessas, favor justificar no README juntamente com o motivo e prós e contras.
+Temos preferência pelas linguagens (em ordem decrescente de utilização):
+
+* C# e/ou .net
+* Go
+* Python
+* C, C++, Rust e/ou afins
+* Java
+* Ruby
+* PHP
 
 # A Prova
 
