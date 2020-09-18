@@ -18,6 +18,7 @@ Que tal fazer parte de um time com atitude? Participar de uma das maiores disrup
 
 Devem ser utilizadas as seguintes tecnologias :
 
+* Linguagem de programação Typescript (preferencialmente) ou Javascript
 * Qualquer Framework de estilo 
 * Vue.js, React ou Angular 2+
 * Flux (Redux, Vuex, etc)
