@@ -8,7 +8,7 @@ Que tal fazer parte de um time com atitude? Participar de uma das maiores disrup
 * Escalabilidade
 * Micro services e aplicações distribuídas
 * Git
-* AngularJs/React/Vue
+* Angular/React/Vue
 * NodeJS/NestJS/Express
 * Bootstrap/Material Design
 * TDD
@@ -70,14 +70,32 @@ Qualquer funcionalidade extra é bem vinda para agregar na solução básica pro
 # Arquitetura da solução/O que fazer
 
 No arquivo README do projeto explique o funcionamento e a solução adotada na sua implementação do desafio.
+É permitido utilizar templates, livrarias e componentes prontos de outros projetos, porém precisam estar **explicitamente** descritos no README.
+
+**Importante:** Favor destacar no README os pontos positivos nos quais você deseja ser avaliado, e evidenciar quais as partes você gostaria de excluir da avaliação. Isso permite que você complete o teste mais rapidamente se desejar, dando atenção somente a algumas àreas específicas, sem grandes prejuízos à sua avalização de qualidade do código.
 
 ## Avaliação
 
-Entre os critérios de avaliação estão:
+Os principais critérios de avaliação são:
 
 * Usabilidade
-* Criatividade
-* Código limpo e organização
-* Documentação de código
+* Raciocínio lógico na construção da solução
+* Qualidade de código
 * Documentação do projeto (readme)
+* Performance
 
+Serão avaliados também os critérios de:
+
+* Criatividade
+* Documentação de código
+* Responsividade
+* Acessibilidade
+* Apresentação visual
+* Cobertura de testes
+
+## Sugestões
+
+* Utilizar o [Lighthouse](https://developers.google.com/web/tools/lighthouse) (ou similar) para medir a qualidade da aplicação
+* Utilizar as *badges* no readme ([sugestão](https://github.com/dwyl/repo-badges)) para indicar a cobertura de testes, status de build, vulnerabilidades e afins
+* Utilizar o [Swagger](https://swagger.io/) ou similar para facilitar os testes e documentação das APIs (se necessário)
+* Utilizar o Inglês como linguagem padrão para o código e documentação
