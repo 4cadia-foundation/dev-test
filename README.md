@@ -16,7 +16,7 @@ Que tal fazer parte de um time com atitude? Participar de uma das maiores disrup
 
 # Tecnologias/Padrões
 
-Devem ser utilizadas as seguintes tecnologias :
+Caso precise escolher, sugerimos utilizar as seguintes tecnologias :
 
 * Linguagem de programação Typescript (preferencialmente) ou Javascript
 * Qualquer Framework de estilo 
@@ -41,6 +41,7 @@ Temos preferência pelas linguagens (em ordem decrescente de utilização):
 # A Prova
 
 Você será avaliado pela qualidade do código, pela modularidade, pela legibilidade, pela criatividade, pela quantidade de funcionalidades básicas e extra.
+Não se preocupe em cumprir todo o escopo, caso não tenha disponibilidade/habilidade no momento do teste. Se preocupe mais em **cumprir bem** e **documentar bem** tudo que se propor a fazer, e deixar bem claro aquilo que escolheu deliberadamente não desenvolver.
 
 ## Prazo de entrega
 
